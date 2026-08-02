@@ -1,21 +1,38 @@
-I build scalable operational systems through AI, automation, and data driven decision making.
-Currently working at 10 Minute School, I operate at the intersection of product, content, engineering, and operations, improving internal platforms and workflows.
-My work includes PRD writing, process optimization, RAG systems, and AI powered automation that reduce manual effort and improve scalability.
-I am pursuing an MS in Applied Statistics and Data Science at Jahangirnagar University while expanding my expertise in machine learning and intelligent systems.
-Interested in Product Operations, AI Automation, Data Science, RAG Architecture, and building tools that solve real operational problems at scale.
+  ## 👨‍💻 About MeI'm a **Product Management specialist** from Dhaka, Bangladesh, working at **10 Minute School** where I sit at the intersection of product,
+  content, engineering, and operations.
 
+  Over the past two years I've contributed to managing **5 internal platforms** and led the operations flow behind:
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/smalameen0/) 
+  - 🎬 **30,000+** educational videos- 🎓 **~5,000+** LIVE classes- 📝 **400K+** question bank- 🧑‍🎓 **~5,000+** daily users — maintained with almost zero
+  downtimeI turn operational pain points into PRDs, product improvements, and scalable workflows.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=smalameen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=smalameen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=smalameen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ## 🚀 What I Do- **Product Ownership** — full product lifecycle for internal CMS & Question Bank platforms: PRD authoring, backlog prioritization, and
+  cross-functional delivery with Design, Backend, Frontend, and QA squads.
+  - **AI-Powered Systems** — built **TenTen**, a RAG-based knowledge base connecting **3,000+ content assets** across five platforms, and led a team of4 to
+  produce **200+** AI-generated educational media assets.
+  - **Platform Migration** — built a Python automation pipeline that migrated **30,000+ videos** from YouTube to AWS S3, achieving full platform
+  independence with zero service disruption.
+  - **Learning Experience Products** — Free Class Booking, Homework Submission, and CQ/Written Exam Submission systems.
 
----
-[![](https://komarev.com/ghpvc/?username=smalameen&icon=0&color=0)](https://visitcount.itsvg.in)
+  ## 🛠️ Tech Stack| Category | Skills |
+  |---|---|
+  | **Programming & Frameworks** | Python, JavaScript, Node.js, ReactJS, ExpressJS, Google Apps Script |
+  | **AI & Automation** | Retrieval-Augmented Generation (RAG), LLM Integration, Prompt Engineering, Google AI Studio, Firebase Studio, Bolt, v0.dev |
+  | **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Google Looker Studio |
+  | **Tools & APIs** | GitHub, REST APIs, JSON, Postman, CMS Platforms, Amazon S3 |
+  | **Databases** | MongoDB, Firebase Realtime Database, NAS Storage Management |
+  | **Product & Operations** | PRD Writing, Product Architecture, Agile Workflows, Process Optimization, Bug Tracking, Content Management Systems (CMS), ERP
+  Systems |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  ## 🎓 Currently- Pursuing **M.S. in Applied Statistics and Data Science** at Jahangirnagar University.
+  - Building AI automation systems — including a **Content-to-Code** repurposing pipeline and **TenTen** RAG knowledge base.
+
+  ## 📫 Get in Touch- 🌐 **Portfolio:** [sm-alamin0.vercel.app](https://sm-alamin0.vercel.app)
+  - 💼 **LinkedIn:** [linkedin.com/in/smalameen0](https://www.linkedin.com/in/smalameen0)
+  - 📧 **Email:** [smalameen0@gmail.com](mailto:smalameen0@gmail.com)
+  - 📍 **Location:** Gazipur, Dhaka, Bangladesh````Notes:
+  - **Badges** (shield.io) give the header some visual pop — if you prefer a plain text header, just remove that `<p align="center">` block.
+  - **Tech stack** uses exactly what you pasted (kept "Google Looker Studio" since that's what you provided — note your CV says "Google Data Studio";
+  they're the same tool, just its older name).
+  - Numbers come straight from your portfolio/CV:5 platforms,30,000+ videos, ~5,000+ LIVE classes,400K+ question bank, ~5,000+ daily users,3,000+ RAG
+  assets,200+ AI assets.
