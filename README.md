@@ -8,16 +8,15 @@
   </a>
 </h1>
 
-<p align="center">
-  <a href="https://sm-alamin0.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sm--alamin0.vercel.app-8B5CF6?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/smalameen0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:smalameen0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<div align="center">
+  <a href="https://sm-alamin0.vercel.app">🌐 Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/smalameen0">💼 LinkedIn</a> ·
+  <a href="mailto:smalameen0@gmail.com">📧 Email</a>
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
-
 Product management specialist at **10 Minute School** (Dhaka, Bangladesh) — sitting at the intersection of **product, content, engineering, and operations**.
 
 Over the past two years I've contributed to managing **5 internal platforms** and led the operations flow behind:
@@ -29,26 +28,13 @@ Over the past two years I've contributed to managing **5 internal platforms** an
 
 I turn operational pain points into PRDs, product improvements, and scalable workflows.
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smalameen&show_icons=true&rank_icon=github&count_private=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smalameen&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smalameen&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🚀 What I Do
-
 - **Product Ownership** — full product lifecycle for internal **CMS & Question Bank** platforms: PRD authoring, backlog prioritization, and cross-functional delivery with Design, Backend, Frontend, and QA squads.
 - **AI-Powered Systems** — built **TenTen**, a RAG-based knowledge base connecting **3,000+ content assets** across five platforms, leading a team of 4 to produce **200+** AI-generated educational media assets.
 - **Platform Migration** — Python automation pipeline that migrated **30,000+ videos** from YouTube to AWS S3, achieving full platform independence with zero service disruption.
 - **Learning Experience Products** — Free Class Booking, Homework Submission, and CQ/Written Exam Submission systems.
 
 ## 🛠️ Tech Stack
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,express,mongodb,firebase,aws,googlecloud,git,github,postman" alt="Tech Stack" />
 </div>
@@ -68,13 +54,14 @@ I turn operational pain points into PRDs, product improvements, and scalable wor
 </details>
 
 ## 🎓 Currently
-
 - Pursuing **M.S. in Applied Statistics and Data Science** at Jahangirnagar University
 - Building AI automation systems — a **Content-to-Code** repurposing pipeline and the **TenTen** RAG knowledge base
 
 ## 📫 Get in Touch
+<div align="center">
+  <a href="https://sm-alamin0.vercel.app">🌐 sm-alamin0.vercel.app</a> ·
+  <a href="https://www.linkedin.com/in/smalameen0">💼 linkedin.com/in/smalameen0</a> ·
+  <a href="mailto:smalameen0@gmail.com">📧 smalameen0@gmail.com</a>
+</div>
 
-- 🌐 **Portfolio:** [sm-alamin0.vercel.app](https://sm-alamin0.vercel.app)
-- 💼 **LinkedIn:** [linkedin.com/in/smalameen0](https://www.linkedin.com/in/smalameen0)
-- 📧 **Email:** [smalameen0@gmail.com](mailto:smalameen0@gmail.com)
-- 📍 **Location:** Gazipur, Dhaka, Bangladesh
+<div align="center">📍 Gazipur, Dhaka, Bangladesh</div>
