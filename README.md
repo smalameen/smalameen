@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smalameen&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile views" />
-</p>
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
